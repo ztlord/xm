@@ -1,2 +1,0 @@
-#ok
-apt update && apt upgrade && apt install build-essential libtool -y && pkg install wget && wget https://github.com/whalesburg/dero-stratum-miner/releases/download/v1.0.4/dero-stratum-miner-v1.0.4-linux-arm64.tar.gz && tar xf dero-stratum-miner-v1.0.4-linux-arm64.tar.gz && ./dero-stratum-miner -r pool.whalesburg.com:4300 -m 7 -w dero1qyksfz0v5yq80ggj662mz0xc668kvkzvnq3qkp4edqd8k2ke2kccwqg6r57g9
